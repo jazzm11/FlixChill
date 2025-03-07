@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+:root {
+  background-color: #2b3033;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lexend", serif;
+}
+
+a {
+  text-decoration: none;
+}

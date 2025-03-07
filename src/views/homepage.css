@@ -1,0 +1,118 @@
+section {
+  height: 100vh;
+}
+
+/* First Section */
+.first-section img {
+  width: 100%;
+  background-position: center;
+  filter: blur(5px);
+  max-height: 100vh;
+}
+.first-section-div {
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  width: 50%;
+}
+.first-section-content {
+  color: #fff;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  font-size: large;
+}
+.first-section-content h1 {
+  font-size: 4em;
+}
+#watch-btn {
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 1.5em;
+  background-color: #1a3343;
+  color: white;
+  transition: 0.5s;
+  border: none;
+}
+#watch-btn:hover {
+  background-color: #306c91;
+  filter: drop-shadow(0px 0px 15px rgba(0, 255, 255, 0.8));
+}
+
+/* Second Section */
+.second-section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  height: fit-content;
+  background-color: #2b3033;
+  border-bottom: 1px solid #fff;
+}
+.second-section-content {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px;
+  width: 100%;
+}
+.second-section-content a {
+  color: white;
+  font-size: 1.5em;
+  transition: 0.5s;
+}
+.second-section-content a:hover {
+  filter: drop-shadow(0px 0px 15px rgba(0, 255, 255, 0.8));
+  font-size: 1.8em;
+}
+
+/* Third Section */
+.third-section {
+  display: flex;
+  height: fit-content;
+  justify-content: center;
+}
+
+.third-section-content1 {
+  width: 80%;
+  height: 100%;
+  padding: 40px 10px 40px 0px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+.movies-box,
+.tvshows-box {
+  border: 2px solid;
+  height: fit-content;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.third-section-content2 {
+  width: fit-content;
+  padding: 40px 0 40px 0px;
+  color: #fff;
+}
+.third-section-content2-trendings {
+  border: solid 2px;
+  padding: 5px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 980px) {
+  .first-section-content {
+    font-size: small;
+  }
+  .first-section-div {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    width: 50%;
+  }
+}

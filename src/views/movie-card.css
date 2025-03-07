@@ -1,0 +1,20 @@
+/* Cards */
+.card-box {
+  width: 180px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-content: space-evenly;
+  transition: 0.5s;
+}
+.card-box:hover {
+  width: 190px;
+}
+#description {
+  position: relative;
+  font-weight: 200;
+}
+#card-img {
+  max-width: 250px;
+}
