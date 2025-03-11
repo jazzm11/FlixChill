@@ -17,7 +17,7 @@ function HomePage() {
             <p>
               Teen Miles Morales teams up with Gwen Stacy on a new adventure,
               facing sinister foe The Spot and a vast legion of parallel heroes
-              in the Multiverse. hello world
+              in the Multiverse.
             </p>
             <button id="watch-btn">Watch Trailer</button>
           </div>
