@@ -9,7 +9,7 @@ function HomePage() {
     <>
       <Navigation />
       <section className="first-section">
-        <img src="/public/background.png" />
+        <img src="/background.png" />
         <div className="first-section-div">
           <div className="first-section-content">
             <h1 id="header-text">Spider-Man: Across the Spider-Verse</h1>
