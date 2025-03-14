@@ -12,9 +12,9 @@ function SeriesPage() {
           <h1>Series</h1>
           <div className="movie-shows-container">
             <MovieCard
-              image="/movie image/interstellar.png"
-              name="Interstellar"
-              year="2014"
+              image="/movie image/gameofthrones.png"
+              name="Game of Thrones"
+              year="2011"
             />
             <MovieCard
               image="/movie image/ehc.png"
@@ -22,9 +22,9 @@ function SeriesPage() {
               year="2005-2009"
             />
             <MovieCard
-              image="/movie image/interstellar.png"
-              name="Interstellar"
-              year="2014"
+              image="/movie image/therookie.png"
+              name="The Rookie"
+              year="2018"
             />
             <MovieCard
               image="/movie image/tsitp.png"

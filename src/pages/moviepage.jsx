@@ -17,9 +17,9 @@ function MoviePage() {
               year="2025"
             />
             <MovieCard
-              image="/movie image/interstellar.png"
-              name="Interstellar"
-              year="2014"
+              image="/movie image/thedarkknight.png"
+              name="The Dark Knight"
+              year="2008"
             />
             <MovieCard
               image="/movie image/johnwick4.png"
