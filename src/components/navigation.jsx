@@ -37,11 +37,13 @@ function Navigation() {
               Series
             </Link>
           </li>
+          <li>
+            <Link to="/searchpage" onClick={() => setIsOpen(false)}>
+              Search
+            </Link>
+          </li>
         </ul>
       </nav>
-
-      {/* Search Input (Hidden on small screens) */}
-      <input type="text" placeholder="Search movie" className="search-input" />
     </header>
   );
 }

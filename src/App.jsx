@@ -8,6 +8,7 @@ import AdventurePage from "./pages/adventure";
 import DramaPage from "./pages/drama";
 import ComedyPage from "./pages/comedy";
 import MorePage from "./pages/more";
+import SearchPage from "./components/search";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/drama" element={<DramaPage />} />
         <Route path="/comedy" element={<ComedyPage />} />
         <Route path="/more" element={<MorePage />} />
+        <Route path="/searchpage" element={<SearchPage />} />
       </Routes>
     </Router>
   );

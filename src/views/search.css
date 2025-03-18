@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container input {
+  padding: 10px;
+  border-radius: 10px;
+}
+.container button {
+  padding: 10px;
+  border-radius: 10px;
+}
+.container a {
+  color: white;
+  margin-top: 15px;
+  font-size: larger;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
