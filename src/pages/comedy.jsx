@@ -25,6 +25,46 @@ function ComedyPage() {
               name="Everybody Hates Chris"
               year="2005-2009"
             />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
+            <MovieCard
+              image="/movie image/ehc.png"
+              name="Everybody Hates Chris"
+              year="2005-2009"
+            />
           </div>
         </div>
       </section>

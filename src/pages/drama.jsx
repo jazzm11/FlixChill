@@ -25,6 +25,41 @@ function DramaPage() {
               name="Captain America: Brave New World"
               year="2025"
             />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/cabnw.png"
+              name="Captain America: Brave New World"
+              year="2025"
+            />
           </div>
         </div>
       </section>

@@ -20,6 +20,36 @@ function MorePage() {
               name="VGS"
               year="2022-2024"
             />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
+            <MovieCard
+              image="/movie image/vgs.png"
+              name="VGS"
+              year="2022-2024"
+            />
           </div>
         </div>
       </section>

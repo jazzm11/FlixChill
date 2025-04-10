@@ -25,6 +25,56 @@ function AdventurePage() {
               name="The Gorge"
               year="2025"
             />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
+            <MovieCard
+              image="/movie image/thegorge.png"
+              name="The Gorge"
+              year="2025"
+            />
           </div>
         </div>
       </section>
